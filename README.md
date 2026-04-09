@@ -1,8 +1,8 @@
 # OS-Jackfruit: Multi-Container Runtime
 
 ## Team Information
-- Student 1: [Name] - [SRN]
-- Student 2: [Name] - [SRN]
+- Student 1: [Mohammed Rizwan Shaikh] - [PES1Ug24CS272]
+- Student 2: [Muhammad Affan Dumba] - PES1UG24CS280
 
 ## Architecture Overview
 This project implements a lightweight Linux container runtime with a unified user-space daemon and kernel-space memory monitor.
