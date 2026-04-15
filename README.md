@@ -19,7 +19,7 @@ This project implements a lightweight Linux container runtime with a unified use
    ```
 2. Build the project:
    ```bash
-   cd boilerplate
+   cd container-runtime
    make
    ```
 3. Load the memory monitor kernel module:
