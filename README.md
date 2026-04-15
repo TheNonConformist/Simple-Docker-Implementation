@@ -73,23 +73,7 @@ sudo ./engine stop alpha
 | `engine logs <id>` | Fetches streamed output stored by the logging pipeline. |
 | `engine stop <id>` | Issues a SIGTERM to gracefully terminate an active container. |
 
-## Demonstrations (Screenshots)
-1. **Multi-container supervision**:
-   `[Screenshot Placeholder]`
-2. **Metadata tracking**:
-   `[Screenshot Placeholder]`
-3. **Bounded-buffer logging**:
-   `[Screenshot Placeholder]`
-4. **CLI and IPC**:
-   `[Screenshot Placeholder]`
-5. **Soft-limit warning**:
-   `[Screenshot Placeholder]`
-6. **Hard-limit enforcement**:
-   `[Screenshot Placeholder]`
-7. **Scheduling experiment**:
-   `[Screenshot Placeholder]`
-8. **Clean teardown**:
-   `[Screenshot Placeholder]`
+## Demonstrations (Screenshots): included in submitted PDF
 
 ## Engineering Analysis
 
