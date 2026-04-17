@@ -1,4 +1,4 @@
-# OS-Jackfruit: Multi-Container Runtime
+# Multi-Container Runtime
 
 ## Team Information
 - Student 1: [Mohammed Rizwan Shaikh] - [PES1Ug24CS272]
